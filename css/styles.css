@@ -1,0 +1,48 @@
+/* General css */
+
+/* * {
+    outline: 2px solid red;
+} */
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto, sans-serif;
+    box-sizing: border-box;
+}
+
+/* Header css */
+
+.header {
+    background-color: #1F2937;
+    padding: 12px;
+    border-bottom: 2px solid white;
+    display: flex;
+}
+
+nav .logo {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-right: auto;
+}
+
+nav ul {
+    display: flex;
+    align-items: flex-start;
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    gap: 16px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+/* Main */
+
+/* Footer */
