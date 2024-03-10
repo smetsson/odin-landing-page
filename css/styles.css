@@ -54,7 +54,7 @@ nav a {
 }
 
 .hero-text-block {
-    flex: 1 1 250px;
+    flex: 1;
 }
 
 .hero-main-text {
