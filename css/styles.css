@@ -22,7 +22,7 @@ body {
 .header {
     display: flex;
     background-color: #1F2937;
-    padding: 12px 48px;
+    padding: 12px 80px;
     border-bottom: 2px solid white;
 }
 
@@ -64,7 +64,7 @@ nav a {
     justify-content: center;
     align-items: center;
     background-color: #1F2937;
-    padding: 120px 48px;
+    padding: 120px 80px;
     gap: 48px;
 }
 
@@ -116,7 +116,7 @@ button {
 .body-information {
     display: flex;
     flex-direction: column;
-    padding: 60px 48px 120px 48px;
+    padding: 60px 80px 120px 80px;
     gap: 48px;
 }
 
@@ -162,7 +162,7 @@ button {
     flex-direction: column;
     align-items: center;
     background-color: #E5E7EB;
-    padding: 120px 48px;
+    padding: 120px 80px;
 }
 
 .quote-block {
