@@ -157,6 +157,33 @@ button {
 }
 
 /* Body - Quote */
+.body-quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 120px 48px;
+}
+
+.quote-block {
+    max-width: 725px;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+    padding-bottom: 14px;
+}
+
+.quote-author {
+    color: #1F2937;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: right;
+}
 
 /* Body - CTA */
 
