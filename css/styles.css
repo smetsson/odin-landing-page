@@ -102,7 +102,7 @@ button {
     background-color: rgb(150, 150, 150);
     /* placeholder settings to be adjusted when image is added */
     height: 250px;
-    width: 300px;
+    min-width: 300px;
 }
 
 .hero-image-text{
