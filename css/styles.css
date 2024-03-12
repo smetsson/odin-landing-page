@@ -1,9 +1,5 @@
 /* General css */
 
-/* * {
-    outline: 2px solid red;
-} */
-
 html,
 body {
     margin: 0px;
@@ -86,7 +82,7 @@ nav a {
 }
 
 button {
-    color: #E5E7EB;
+    color: #F9FAF8;
     background-color: #3882F6;
     border: none;
     font-weight: 700;
@@ -157,6 +153,7 @@ button {
 }
 
 /* Body - Quote */
+
 .body-quote {
     display: flex;
     flex-direction: column;
@@ -186,6 +183,44 @@ button {
 }
 
 /* Body - CTA */
+
+.body-cta {
+    padding: 120px 80px;
+}
+
+.cta-block {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 40px;
+    border-radius: 6px;
+    gap: 16px;
+}
+
+.cta-text-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-title {
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+.cta-text {
+    color: #F9FAF8;
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 6px;
+
+}
+
+.cta-block button {
+    border: #F9FAF8;
+    outline: 2px solid #F9FAF8;
+}
 
 /* Footer */
 
